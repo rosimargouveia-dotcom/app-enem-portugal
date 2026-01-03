@@ -1,0 +1,72 @@
+[
+  {
+    "id": "uc",
+    "name": "Universidade de Coimbra",
+    "shortName": "UC",
+    "location": "Coimbra",
+    "type": "Pública",
+    "description": "A mais antiga universidade de Portugal e uma das preferidas dos brasileiros. Aceita ENEM para a maioria das licenciaturas.",
+    "deadlines": "1ª Fase: 15/12/2025 a 26/01/2026 (Previsão Aviso N.º 44/SGA/DOFAE)",
+    "fees": "7.000€ / ano (Direito) - Possibilidade de parcelamento.",
+    "applicationFee": "50€",
+    "minGrade": "Varia por curso (Geralmente > 120 na escala PT)",
+    "link": "https://inforestudante.uc.pt",
+    "features": ["30% das vagas para escolas parceiras no Brasil", "Património Mundial da UNESCO", "Forte comunidade brasileira"]
+  },
+  {
+    "id": "ulisboa",
+    "name": "Universidade de Lisboa (FDUL)",
+    "shortName": "ULisboa",
+    "location": "Lisboa",
+    "type": "Pública",
+    "description": "Maior universidade de Portugal. A Faculdade de Direito (FDUL) tem concursos específicos muito procurados.",
+    "deadlines": "1ª Fase: 02/01/2026 a 06/02/2026",
+    "fees": "Aprox. 3.000€ a 7.000€ (Varia conforme o curso e CPLP)",
+    "applicationFee": "60€",
+    "minGrade": "Notas do ENEM dos últimos 3 anos aceites.",
+    "link": "https://www.ulisboa.pt/info/concurso-para-estudante-internacional-1o-e-2o-ciclos",
+    "features": ["Localizada na capital", "45 vagas para Direito (Geral)", "Isenção de exames portugueses com ENEM"]
+  },
+  {
+    "id": "uminho",
+    "name": "Universidade do Minho",
+    "shortName": "UMinho",
+    "location": "Braga e Guimarães",
+    "type": "Pública",
+    "description": "Universidade moderna e dinâmica no norte de Portugal. Propinas fixadas no valor máximo legal para internacionais em alguns cursos.",
+    "deadlines": "Geralmente Dezembro/Janeiro",
+    "fees": "6.500€ / ano (Estudante Internacional)",
+    "applicationFee": "50€",
+    "minGrade": "Ponderação específica para cada área do saber.",
+    "link": "https://alunos.uminho.pt",
+    "features": ["Custo de vida mais acessível que Lisboa", "Campus Gualtar e Azurém", "Forte em Engenharia e Direito"]
+  },
+  {
+    "id": "up",
+    "name": "Universidade do Porto",
+    "shortName": "U.Porto",
+    "location": "Porto",
+    "type": "Pública",
+    "description": "Instituição de excelência no norte. A FDUP tem processos via Sigarra.",
+    "deadlines": "Candidaturas via Escola: Julho (Mestrados/2º Ciclo e Concursos Especiais)",
+    "fees": "1.925€ a 3.500€ (Depende do regime e CPLP)",
+    "applicationFee": "55€",
+    "minGrade": "Exige conversão oficial das notas.",
+    "link": "https://sigarra.up.pt/fdup/pt/web_page.inicial",
+    "features": ["Cidade vibrante", "Referência em investigação", "Sistema Sigarra para gestão académica"]
+  },
+  {
+    "id": "nova",
+    "name": "NOVA School of Law",
+    "shortName": "NOVA",
+    "location": "Lisboa",
+    "type": "Pública",
+    "description": "Focada em inovação e internacionalização. A NOVA tem editais próprios e prazos distintos.",
+    "deadlines": "Geralmente Agosto (para fases tardias) ou Início do ano.",
+    "fees": "Consulte edital específico (variável).",
+    "applicationFee": "70€ (estimado)",
+    "minGrade": "Nota mínima global positiva.",
+    "link": "https://novalaw.unl.pt/candidaturas-estudante-internacional-nova-school-of-law/",
+    "features": ["Ensino em Inglês disponível", "Foco em Direito Internacional", "Campus moderno em Campolide"]
+  }
+]
